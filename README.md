@@ -1,4 +1,4 @@
-基于nodejs的博客系统    (主要模块buffer,event,fs,Net,Http)
+基于nodejs的博客系统
     1.功能分析
         1.1 前台---
                 |--首页内容聚合
